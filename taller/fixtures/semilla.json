@@ -68,8 +68,8 @@
   "fields": {
     "vehiculo": 1,
     "mecanico": 1,
-    "descripcion": "Revisión de frenos",
-    "estado": "En reparación",
+    "descripcion": "RevisiÃ³n de frenos",
+    "estado": "En reparaciÃ³n",
     "fecha_ingreso": "2026-10-12"
   }
 },
@@ -90,7 +90,7 @@
   "fields": {
     "vehiculo": 3,
     "mecanico": 2,
-    "descripcion": "Cambio de batería",
+    "descripcion": "Cambio de baterÃ­a",
     "estado": "Listo",
     "fecha_ingreso": "2026-10-10"
   }
@@ -101,7 +101,7 @@
   "fields": {
     "vehiculo": 3,
     "mecanico": 1,
-    "descripcion": "Alineación y balanceo",
+    "descripcion": "AlineaciÃ³n y balanceo",
     "estado": "Recibido",
     "fecha_ingreso": "2026-10-12"
   }
